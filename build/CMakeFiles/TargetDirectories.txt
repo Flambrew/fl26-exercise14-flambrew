@@ -1,0 +1,8 @@
+/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/CMakeFiles/write_file.dir
+/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/CMakeFiles/read_file.dir
+/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/CMakeFiles/edit_cache.dir
+/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/CMakeFiles/rebuild_cache.dir
+/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/CMakeFiles/write_file_autogen_timestamp_deps.dir
+/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/CMakeFiles/write_file_autogen.dir
+/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/CMakeFiles/read_file_autogen_timestamp_deps.dir
+/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/CMakeFiles/read_file_autogen.dir

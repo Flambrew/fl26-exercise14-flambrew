@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NO_DEBUG -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/write_file_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/write_file.dir/write_file_autogen/mocs_compilation.cpp.o -c /home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/write_file_autogen/mocs_compilation.cpp",
+  "file": "/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/write_file_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/write_file.dir/write_file_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NO_DEBUG -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/write_file_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/write_file.dir/write_file.cpp.o -c /home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/write_file.cpp",
+  "file": "/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/write_file.cpp",
+  "output": "CMakeFiles/write_file.dir/write_file.cpp.o"
+},
+{
+  "directory": "/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NO_DEBUG -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/read_file_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/read_file.dir/read_file_autogen/mocs_compilation.cpp.o -c /home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/read_file_autogen/mocs_compilation.cpp",
+  "file": "/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/read_file_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/read_file.dir/read_file_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NO_DEBUG -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew -I/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/build/read_file_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/read_file.dir/read_file.cpp.o -c /home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/read_file.cpp",
+  "file": "/home/stolen-valerie/docs/school/ece3574/fl26-exercise14-flambrew/read_file.cpp",
+  "output": "CMakeFiles/read_file.dir/read_file.cpp.o"
+}
+]
