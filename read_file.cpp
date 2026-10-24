@@ -45,11 +45,12 @@ int main(int argc, char *argv[])
     } else break;
   }
 
+  QString outstring;
   qDebug() << "Read data from a file: ";
   for (int i = 0; i < list.length() - 1; ++i) {
-    qDebug() << list.at(i) << " ";
+    outstring.append(list.at(i) + " ");
   }
-  qDebug() << list.last();
+  qDebug() << outstring + list.last();
   
   return EXIT_SUCCESS;
 }

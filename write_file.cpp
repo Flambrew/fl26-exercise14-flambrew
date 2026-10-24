@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
   list.append("test.");
  
   for (int i = 0; i < list.length() - 1; ++i) {
-    out << (list.at(i) + " ");
+    out << (list.at(i));
   }
   out << list.last();
   
